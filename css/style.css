@@ -1,0 +1,10 @@
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
