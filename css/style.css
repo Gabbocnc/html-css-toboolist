@@ -27,6 +27,7 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     height: 1100px;
+    
 }    
   
 .button{
@@ -57,14 +58,6 @@ body{
     padding: 10px 15px;
 }
 
-.section{
-    margin-left: 100px;
-    padding: 10px 15px;
-    margin-top: 10px;
-    margin-bottom: 12px;
-    text-align: left;
-}
-
 #check{
     left:0; top: 2px;
     width: 30px; 
@@ -89,9 +82,20 @@ body{
 
     
 .list{
+    margin: auto;
+    margin-left: 
+}
+ol{
+    margin: 25px
+}
+.goals{
+    border-radius: 25px;
+    background: #8106f5;
+    padding: 7px;
+    color: white; 
     
 }
 
-
-
-
+.Section{
+    padding-left:100px;
+}
