@@ -1,5 +1,6 @@
 body{
     background-color: #5255572f;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -16,7 +17,7 @@ body{
 .text{
     display: inline-block;
     vertical-align: middle;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 .container-main{
     width: auto;
@@ -55,3 +56,42 @@ body{
     margin-left: 3px;
     padding: 10px 15px;
 }
+
+.section{
+    margin-left: 100px;
+    padding: 10px 15px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+#check{
+    left:0; top: 2px;
+    width: 30px; 
+    height: 30px;
+    border: 1px solid #2bff00;
+    background: #f8f8f8;
+    border-radius: 50%;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,.3)
+}
+
+.editorial{
+    border-radius: 25px;
+    background: #068af7;
+    padding: 7px;
+    color: white;
+}
+
+.tag_editorial{
+    background-color: #0b598d;
+    color: #2bff00
+}
+
+    
+.list{
+    
+}
+
+
+
+
