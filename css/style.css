@@ -1,10 +1,57 @@
+body{
+    background-color: #5255572f;
+}
+
+
+.container-header{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 3%;
+}
 .logo{
     display: inline-block;
     vertical-align: middle;
 }
-
 .text{
     display: inline-block;
     vertical-align: middle;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-main{
+    width: auto;
+    border-radius: 8px;
+    background-color: #f6f8f9;
+    margin: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 1100px;
+}    
+  
+.button{
+    border-bottom: 1px solid rgba(218, 212, 212, 0.637)
+}
+
+#Task{
+    background-color: #47adf1;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 12px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+#add_section{
+    background-color: #d4d4d4;
+    color: #696363;
+    margin-bottom: 12px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 3px;
+    padding: 10px 15px;
 }
